@@ -1,0 +1,14 @@
+body {
+  padding-top: 50px;
+}
+.starter-template {
+  padding: 40px 15px;
+}
+
+.record-list span {
+	font-weight: bold;
+}
+
+.my_btn {
+	margin-bottom:5px; 
+}
